@@ -1,0 +1,17 @@
+=== TRIVY ===
+Version: 0.76.2
+=== GITLEAKS ===
+8.30.1
+=== KUBE-SCORE ===
+kube-score version: 1.20.0, commit: 81371e9f53b633bec69423fc298295bd71bd869a, built: 2025-04-28T16:54:40Z
+=== CHECKOV ===
+3.4.6
+=== KUBECTL ===
+Client Version: v1.36.4+k3s1
+Kustomize Version: v5.8.1
+=== JQ ===
+jq-1.8.1
+=== GIT ===
+git version 2.53.0
+=== LYNIS ===
+3.1.6
